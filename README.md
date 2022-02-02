@@ -1,1 +1,1 @@
-# jleyva17.github.io
+# I am a junior electrical engineering student. I aim to understand as much about this world as possible and I feel like this field is one of the most conducive to discovering new things . I don't have the best brains for the arts but I think its fun so here we are !
