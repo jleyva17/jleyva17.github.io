@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.bodystyle1 {
+  font-family: tahoma;
+  font-size: 18;
+  color: black;
+  position:absolute;
+  text-align:justify;
+}
