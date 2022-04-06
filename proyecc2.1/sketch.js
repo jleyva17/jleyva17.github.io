@@ -1,3 +1,4 @@
+let title = `Laws of Propagation`;
 function setup() {
   createCanvas(1000, 1200);
 }
@@ -11,7 +12,7 @@ function draw() {
   text(`Laws of Propagation`, 275, 300);
   textStyle(`bold`);
   textSize(55);
-  text(`Biology of Organic Engines`, 150, 200)
+  text(`Ideological Engineering`, 170, 200)
   pop();
   textSize(30);
   text(`Lab Manual`, 415, 380);

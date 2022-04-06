@@ -12,3 +12,23 @@ canvas {
   position:absolute;
   text-align:justify;
 }
+.piccap{
+  font-family: tahoma;
+  font-style: italic;
+  font-size: 8;
+  color: rgb(42, 40, 40);
+  position: absolute;
+}
+.question{
+  font-family: tahoma;
+  font-size: 20;
+  color: black;
+  position: absolute;
+}
+.nex{
+  font-family: tahoma;
+  font-style: italic;
+  font-size: 6;
+  color: rgb(76, 73, 73);
+  position: absolute;
+}
