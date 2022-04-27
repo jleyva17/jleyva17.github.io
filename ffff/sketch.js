@@ -3,8 +3,8 @@ function setup() {
 }
 
 function draw() {
-  background(220);
-  fill('white')
+  background(250);
+  fill(200)
   strokeWeight(1)
   stroke(`black`)
   for (let i = 10; i < 1000; i= i + 100){
@@ -12,7 +12,7 @@ function draw() {
       square(i, k , 50)
     }
   }
-  fill(220)
+  fill(250)
   noStroke()
   square(500, 400, 100)
   fill(`red`)
