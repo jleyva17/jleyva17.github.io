@@ -7,4 +7,27 @@ canvas {
 }
 .wordz{
   position: absolute;
+  font-size: 20px;
+}
+.bwordz{
+  position: absolute;
+  font-size: 35px;
+  color: white;
+}
+.cwordz{
+  position: absolute;
+  font-size: 80px;
+  color: red;
+  transform: rotate(40deg);
+}
+.dwordz{
+  position: absolute;
+  font-size: 50px;
+  color: rgb(123, 67, 162);
+  transform: rotate(-10deg);
+}
+.ewordz{
+  position: absolute;
+  font-size: 90px;
+  color: rgb(0, 0, 0);
 }
